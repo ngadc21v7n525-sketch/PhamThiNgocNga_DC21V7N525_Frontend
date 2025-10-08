@@ -29,8 +29,8 @@ export default {
 </script>
 
 <style scoped>
-.page {
-  max-width: 400px;
-  margin: auto;
+.add-contact-page {
+  display: flex;
+  min-height: 100vh;
 }
 </style>
